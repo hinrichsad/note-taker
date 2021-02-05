@@ -1,0 +1,22 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note-taker",
+  "main": "apiRouter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinrichsad/note-taker.git"
+  },
+  "author": "Andrew Hinrichs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinrichsad/note-taker/issues"
+  },
+  "homepage": "https://github.com/hinrichsad/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
